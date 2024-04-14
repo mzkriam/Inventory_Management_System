@@ -1,4 +1,4 @@
-# Inventory Management System
+# Inventory Management System (IMS)
 
 Welcome to the repository for the Inventory Management System, engineered to streamline and optimize inventory tracking and management processes.
 
